@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\bin\Debug\net6.0\PartialClass_Demo.exe
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\bin\Debug\net6.0\PartialClass_Demo.deps.json
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\bin\Debug\net6.0\PartialClass_Demo.runtimeconfig.json
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\bin\Debug\net6.0\PartialClass_Demo.dll
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\bin\Debug\net6.0\PartialClass_Demo.pdb
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.dll
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\refint\PartialClass_Demo.dll
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.pdb
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\PartialClass_Demo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\PartialClass_Demo\PartialClass_Demo\obj\Debug\net6.0\ref\PartialClass_Demo.dll

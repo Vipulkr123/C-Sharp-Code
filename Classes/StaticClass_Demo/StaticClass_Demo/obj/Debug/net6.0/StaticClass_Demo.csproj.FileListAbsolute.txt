@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\bin\Debug\net6.0\StaticClass_Demo.exe
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\bin\Debug\net6.0\StaticClass_Demo.deps.json
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\bin\Debug\net6.0\StaticClass_Demo.runtimeconfig.json
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\bin\Debug\net6.0\StaticClass_Demo.dll
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\bin\Debug\net6.0\StaticClass_Demo.pdb
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.dll
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\refint\StaticClass_Demo.dll
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.pdb
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\StaticClass_Demo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\StaticClass_Demo\StaticClass_Demo\obj\Debug\net6.0\ref\StaticClass_Demo.dll

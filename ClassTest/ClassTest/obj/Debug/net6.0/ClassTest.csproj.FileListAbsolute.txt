@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.exe
+C:\Users\vipul\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.deps.json
+C:\Users\vipul\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.runtimeconfig.json
+C:\Users\vipul\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.dll
+C:\Users\vipul\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.pdb
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfo.cs
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.dll
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\refint\ClassTest.dll
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.pdb
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.genruntimeconfig.cache
+C:\Users\vipul\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ref\ClassTest.dll

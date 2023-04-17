@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.exe
+C:\Users\vipul\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.deps.json
+C:\Users\vipul\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.runtimeconfig.json
+C:\Users\vipul\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.dll
+C:\Users\vipul\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.pdb
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfo.cs
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.dll
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\refint\Pattern.dll
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.pdb
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.genruntimeconfig.cache
+C:\Users\vipul\source\repos\Pattern\Pattern\obj\Debug\net6.0\ref\Pattern.dll

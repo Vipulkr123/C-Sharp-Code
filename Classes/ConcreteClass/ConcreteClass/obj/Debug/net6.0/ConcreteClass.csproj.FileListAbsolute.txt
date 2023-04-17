@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\bin\Debug\net6.0\ConcreteClass.exe
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\bin\Debug\net6.0\ConcreteClass.deps.json
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\bin\Debug\net6.0\ConcreteClass.runtimeconfig.json
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\bin\Debug\net6.0\ConcreteClass.dll
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\bin\Debug\net6.0\ConcreteClass.pdb
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.AssemblyInfo.cs
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.dll
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\refint\ConcreteClass.dll
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.pdb
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ConcreteClass.genruntimeconfig.cache
+C:\Users\vipul\source\repos\ConcreteClass\ConcreteClass\obj\Debug\net6.0\ref\ConcreteClass.dll
