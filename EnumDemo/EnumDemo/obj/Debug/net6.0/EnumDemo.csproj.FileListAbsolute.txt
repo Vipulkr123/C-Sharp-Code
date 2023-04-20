@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.exe
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.deps.json
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.dll
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.pdb
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.dll
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\refint\EnumDemo.dll
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.pdb
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\EnumDemo\EnumDemo\obj\Debug\net6.0\ref\EnumDemo.dll
