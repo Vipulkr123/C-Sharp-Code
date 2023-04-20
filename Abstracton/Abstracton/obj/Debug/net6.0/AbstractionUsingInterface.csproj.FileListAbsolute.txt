@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\Abstracton\Abstracton\bin\Debug\net6.0\AbstractionUsingInterface.exe
+C:\Users\vipul\source\repos\Abstracton\Abstracton\bin\Debug\net6.0\AbstractionUsingInterface.deps.json
+C:\Users\vipul\source\repos\Abstracton\Abstracton\bin\Debug\net6.0\AbstractionUsingInterface.runtimeconfig.json
+C:\Users\vipul\source\repos\Abstracton\Abstracton\bin\Debug\net6.0\AbstractionUsingInterface.dll
+C:\Users\vipul\source\repos\Abstracton\Abstracton\bin\Debug\net6.0\AbstractionUsingInterface.pdb
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.AssemblyInfo.cs
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.dll
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\refint\AbstractionUsingInterface.dll
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.pdb
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\AbstractionUsingInterface.genruntimeconfig.cache
+C:\Users\vipul\source\repos\Abstracton\Abstracton\obj\Debug\net6.0\ref\AbstractionUsingInterface.dll

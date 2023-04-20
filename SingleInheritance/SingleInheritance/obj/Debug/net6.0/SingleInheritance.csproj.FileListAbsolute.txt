@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+C:\Users\vipul\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll

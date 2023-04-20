@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\bin\Debug\net6.0\DestructorTest.exe
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\bin\Debug\net6.0\DestructorTest.deps.json
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\bin\Debug\net6.0\DestructorTest.runtimeconfig.json
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\bin\Debug\net6.0\DestructorTest.dll
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\bin\Debug\net6.0\DestructorTest.pdb
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.AssemblyInfo.cs
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.dll
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\refint\DestructorTest.dll
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.pdb
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\DestructorTest.genruntimeconfig.cache
+C:\Users\vipul\source\repos\DestructorTest\DestructorTest\obj\Debug\net6.0\ref\DestructorTest.dll

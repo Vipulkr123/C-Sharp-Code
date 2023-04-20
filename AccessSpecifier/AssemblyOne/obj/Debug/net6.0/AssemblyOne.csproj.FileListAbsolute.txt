@@ -1,0 +1,12 @@
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\bin\Debug\net6.0\AssemblyOne.deps.json
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\bin\Debug\net6.0\AssemblyOne.dll
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\bin\Debug\net6.0\AssemblyOne.pdb
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.AssemblyInfo.cs
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.dll
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\refint\AssemblyOne.dll
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\AssemblyOne.pdb
+C:\Users\vipul\source\repos\AccessSpecifier\AssemblyOne\obj\Debug\net6.0\ref\AssemblyOne.dll

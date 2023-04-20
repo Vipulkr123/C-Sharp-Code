@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AssemblyOne/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AssemblyOne.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AssemblyOne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblyOne/1.0.0": {
+      "type": "project",
+      "path": "../AssemblyOne/AssemblyOne.csproj",
+      "msbuildProject": "../AssemblyOne/AssemblyOne.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AssemblyOne >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vipul\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vipul\\source\\repos\\AccessSpecifierPublic\\AccessSpecifierPublic\\AccessSpecifierPublic.csproj",
+      "projectName": "AccessSpecifierPublic",
+      "projectPath": "C:\\Users\\vipul\\source\\repos\\AccessSpecifierPublic\\AccessSpecifierPublic\\AccessSpecifierPublic.csproj",
+      "packagesPath": "C:\\Users\\vipul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vipul\\source\\repos\\AccessSpecifierPublic\\AccessSpecifierPublic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vipul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\vipul\\source\\repos\\AccessSpecifierPublic\\AssemblyOne\\AssemblyOne.csproj": {
+              "projectPath": "C:\\Users\\vipul\\source\\repos\\AccessSpecifierPublic\\AssemblyOne\\AssemblyOne.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
