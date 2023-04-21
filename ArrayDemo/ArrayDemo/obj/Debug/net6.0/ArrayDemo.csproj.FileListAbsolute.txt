@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.exe
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.deps.json
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.dll
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.pdb
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.dll
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\refint\ArrayDemo.dll
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.pdb
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ref\ArrayDemo.dll

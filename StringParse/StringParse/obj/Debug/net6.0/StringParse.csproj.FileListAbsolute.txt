@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\StringParse\StringParse\bin\Debug\net6.0\StringParse.exe
+C:\Users\vipul\source\repos\StringParse\StringParse\bin\Debug\net6.0\StringParse.deps.json
+C:\Users\vipul\source\repos\StringParse\StringParse\bin\Debug\net6.0\StringParse.runtimeconfig.json
+C:\Users\vipul\source\repos\StringParse\StringParse\bin\Debug\net6.0\StringParse.dll
+C:\Users\vipul\source\repos\StringParse\StringParse\bin\Debug\net6.0\StringParse.pdb
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.AssemblyInfo.cs
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.dll
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\refint\StringParse.dll
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.pdb
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\StringParse.genruntimeconfig.cache
+C:\Users\vipul\source\repos\StringParse\StringParse\obj\Debug\net6.0\ref\StringParse.dll
