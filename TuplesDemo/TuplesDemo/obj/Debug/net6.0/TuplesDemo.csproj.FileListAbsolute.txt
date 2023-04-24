@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\bin\Debug\net6.0\TuplesDemo.exe
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\bin\Debug\net6.0\TuplesDemo.deps.json
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\bin\Debug\net6.0\TuplesDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\bin\Debug\net6.0\TuplesDemo.dll
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\bin\Debug\net6.0\TuplesDemo.pdb
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.dll
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\refint\TuplesDemo.dll
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.pdb
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\TuplesDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\TuplesDemo\TuplesDemo\obj\Debug\net6.0\ref\TuplesDemo.dll
