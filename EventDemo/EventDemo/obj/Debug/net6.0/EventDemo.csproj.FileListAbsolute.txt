@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\EventDemo\EventDemo\bin\Debug\net6.0\EventDemo.exe
+C:\Users\vipul\source\repos\EventDemo\EventDemo\bin\Debug\net6.0\EventDemo.deps.json
+C:\Users\vipul\source\repos\EventDemo\EventDemo\bin\Debug\net6.0\EventDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\EventDemo\EventDemo\bin\Debug\net6.0\EventDemo.dll
+C:\Users\vipul\source\repos\EventDemo\EventDemo\bin\Debug\net6.0\EventDemo.pdb
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.dll
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\refint\EventDemo.dll
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.pdb
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\EventDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\EventDemo\EventDemo\obj\Debug\net6.0\ref\EventDemo.dll
