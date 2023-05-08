@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\bin\Debug\net6.0\Constructordemo.exe
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\bin\Debug\net6.0\Constructordemo.deps.json
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\bin\Debug\net6.0\Constructordemo.runtimeconfig.json
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\bin\Debug\net6.0\Constructordemo.dll
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\bin\Debug\net6.0\Constructordemo.pdb
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.dll
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\refint\Constructordemo.dll
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.pdb
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\Constructordemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\Constructordemo\Constructordemo\obj\Debug\net6.0\ref\Constructordemo.dll

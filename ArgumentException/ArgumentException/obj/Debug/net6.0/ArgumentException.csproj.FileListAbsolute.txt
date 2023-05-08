@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\bin\Debug\net6.0\ArgumentException.exe
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\bin\Debug\net6.0\ArgumentException.deps.json
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\bin\Debug\net6.0\ArgumentException.runtimeconfig.json
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\bin\Debug\net6.0\ArgumentException.dll
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\bin\Debug\net6.0\ArgumentException.pdb
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.AssemblyInfo.cs
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.dll
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\refint\ArgumentException.dll
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.pdb
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ArgumentException.genruntimeconfig.cache
+C:\Users\vipul\source\repos\ArgumentException\ArgumentException\obj\Debug\net6.0\ref\ArgumentException.dll

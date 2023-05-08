@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\SetDemo\SetDemo\bin\Debug\net6.0\SetDemo.exe
+C:\Users\vipul\source\repos\SetDemo\SetDemo\bin\Debug\net6.0\SetDemo.deps.json
+C:\Users\vipul\source\repos\SetDemo\SetDemo\bin\Debug\net6.0\SetDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\SetDemo\SetDemo\bin\Debug\net6.0\SetDemo.dll
+C:\Users\vipul\source\repos\SetDemo\SetDemo\bin\Debug\net6.0\SetDemo.pdb
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.dll
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\refint\SetDemo.dll
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.pdb
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\SetDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\SetDemo\SetDemo\obj\Debug\net6.0\ref\SetDemo.dll

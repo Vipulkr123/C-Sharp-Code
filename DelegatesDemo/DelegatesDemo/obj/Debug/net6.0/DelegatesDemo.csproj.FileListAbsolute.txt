@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.exe
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.deps.json
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.dll
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.pdb
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.dll
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\refint\DelegatesDemo.dll
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.pdb
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\ref\DelegatesDemo.dll

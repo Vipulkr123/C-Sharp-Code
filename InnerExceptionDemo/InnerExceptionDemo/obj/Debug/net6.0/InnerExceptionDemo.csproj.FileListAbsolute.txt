@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\bin\Debug\net6.0\InnerExceptionDemo.exe
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\bin\Debug\net6.0\InnerExceptionDemo.deps.json
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\bin\Debug\net6.0\InnerExceptionDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\bin\Debug\net6.0\InnerExceptionDemo.dll
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\bin\Debug\net6.0\InnerExceptionDemo.pdb
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.dll
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\refint\InnerExceptionDemo.dll
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.pdb
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\InnerExceptionDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\InnerExceptionDemo\InnerExceptionDemo\obj\Debug\net6.0\ref\InnerExceptionDemo.dll

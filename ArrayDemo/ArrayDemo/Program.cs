@@ -91,7 +91,7 @@
             // Array Copy Method
             int[] array1 = new int[5] { 1, 2, 3, 4, 5 };
             int[] array2 = new int[3] { 6, 7, 8 };
-            Array.Copy(array2, array1, 0);
+            Array.Copy(array2, array1, 2);
             foreach (var item in array1)
             {
                 Console.Write(item + " ");

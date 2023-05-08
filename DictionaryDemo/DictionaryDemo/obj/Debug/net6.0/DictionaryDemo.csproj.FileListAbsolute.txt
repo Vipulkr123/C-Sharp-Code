@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.exe
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.deps.json
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.dll
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\bin\Debug\net6.0\DictionaryDemo.pdb
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.dll
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\refint\DictionaryDemo.dll
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.pdb
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\DictionaryDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\DictionaryDemo\DictionaryDemo\obj\Debug\net6.0\ref\DictionaryDemo.dll

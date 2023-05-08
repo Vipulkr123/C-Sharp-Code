@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\bin\Debug\net6.0\InOutRefDemo.exe
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\bin\Debug\net6.0\InOutRefDemo.deps.json
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\bin\Debug\net6.0\InOutRefDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\bin\Debug\net6.0\InOutRefDemo.dll
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\bin\Debug\net6.0\InOutRefDemo.pdb
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.dll
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\refint\InOutRefDemo.dll
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.pdb
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\InOutRefDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\InOutRefDemo\InOutRefDemo\obj\Debug\net6.0\ref\InOutRefDemo.dll

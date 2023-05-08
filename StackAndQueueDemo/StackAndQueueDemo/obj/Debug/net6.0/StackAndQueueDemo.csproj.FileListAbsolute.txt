@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\bin\Debug\net6.0\StackAndQueueDemo.exe
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\bin\Debug\net6.0\StackAndQueueDemo.deps.json
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\bin\Debug\net6.0\StackAndQueueDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\bin\Debug\net6.0\StackAndQueueDemo.dll
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\bin\Debug\net6.0\StackAndQueueDemo.pdb
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.dll
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\refint\StackAndQueueDemo.dll
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.pdb
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\StackAndQueueDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\StackAndQueueDemo\StackAndQueueDemo\obj\Debug\net6.0\ref\StackAndQueueDemo.dll

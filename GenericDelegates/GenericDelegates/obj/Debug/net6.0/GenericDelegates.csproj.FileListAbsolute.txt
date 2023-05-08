@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\bin\Debug\net6.0\GenericDelegates.exe
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\bin\Debug\net6.0\GenericDelegates.deps.json
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\bin\Debug\net6.0\GenericDelegates.runtimeconfig.json
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\bin\Debug\net6.0\GenericDelegates.dll
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\bin\Debug\net6.0\GenericDelegates.pdb
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.AssemblyInfo.cs
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.dll
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\refint\GenericDelegates.dll
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.pdb
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\GenericDelegates.genruntimeconfig.cache
+C:\Users\vipul\source\repos\GenericDelegates\GenericDelegates\obj\Debug\net6.0\ref\GenericDelegates.dll

@@ -1,4 +1,6 @@
-﻿namespace StructVsClass
+﻿using System.Diagnostics;
+
+namespace StructVsClass
 {
     internal class TestClass
     {
@@ -60,6 +62,8 @@
             testClass.num1 += 100;
             testClass.num2 += 100;
             Console.WriteLine("Within Class Modify Value {0},{1}", testClass.num1, testClass.num2);
+            Console.WriteLine("Thread Count");
+            Console.WriteLine(Process.GetCurrentProcess().Threads.Count);
         }
     }
 }

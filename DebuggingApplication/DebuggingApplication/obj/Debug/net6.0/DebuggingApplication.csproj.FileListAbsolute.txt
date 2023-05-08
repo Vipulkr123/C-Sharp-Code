@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.exe
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.deps.json
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.runtimeconfig.json
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.dll
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\bin\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.dll
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\refint\DebuggingApplication.dll
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.pdb
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\vipul\source\repos\DebuggingApplication\DebuggingApplication\obj\Debug\net6.0\ref\DebuggingApplication.dll

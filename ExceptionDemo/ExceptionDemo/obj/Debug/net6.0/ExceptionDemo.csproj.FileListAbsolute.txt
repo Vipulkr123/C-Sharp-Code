@@ -1,0 +1,15 @@
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.exe
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.deps.json
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.runtimeconfig.json
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.dll
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\net6.0\ExceptionDemo.pdb
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.dll
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\refint\ExceptionDemo.dll
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.pdb
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ExceptionDemo.genruntimeconfig.cache
+C:\Users\vipul\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\net6.0\ref\ExceptionDemo.dll

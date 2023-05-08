@@ -1,0 +1,5 @@
+C:\Users\vipul\source\repos\DrawingDemo\DrawingDemo\obj\Debug\net6.0\DrawingDemo.csproj.AssemblyReference.cache
+C:\Users\vipul\source\repos\DrawingDemo\DrawingDemo\obj\Debug\net6.0\DrawingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul\source\repos\DrawingDemo\DrawingDemo\obj\Debug\net6.0\DrawingDemo.AssemblyInfoInputs.cache
+C:\Users\vipul\source\repos\DrawingDemo\DrawingDemo\obj\Debug\net6.0\DrawingDemo.AssemblyInfo.cs
+C:\Users\vipul\source\repos\DrawingDemo\DrawingDemo\obj\Debug\net6.0\DrawingDemo.csproj.CoreCompileInputs.cache

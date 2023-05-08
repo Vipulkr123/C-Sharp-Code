@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorMove", "CursorMove\CursorMove.csproj", "{31BF9259-4E2F-42B4-A967-42CBA4ADEA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BF9259-4E2F-42B4-A967-42CBA4ADEA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BF9259-4E2F-42B4-A967-42CBA4ADEA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BF9259-4E2F-42B4-A967-42CBA4ADEA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BF9259-4E2F-42B4-A967-42CBA4ADEA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A764A7-592A-483A-915B-5C0DE1089FC0}
+	EndGlobalSection
+EndGlobal
