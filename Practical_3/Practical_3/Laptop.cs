@@ -18,16 +18,5 @@ namespace Practical_3
         {
             Console.WriteLine("MotherBoard Information");
         }
-
-        static void Main()
-        {
-            Laptop myLaptop = new Laptop();
-            myLaptop._brand = "Acer";
-            myLaptop._model = "Nitro 5";
-            myLaptop.LaptopDetails();
-            myLaptop.MotherBoardInfo();
-        }
-
-
     }
 }

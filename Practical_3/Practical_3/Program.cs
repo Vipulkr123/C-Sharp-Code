@@ -11,15 +11,16 @@
 
             //! Polymorphism
             Bird myBird = new Bird();
-            Bird myDuck = new Duck();
+            Duck myDuck = (Duck)new Bird();
             myBird.Voice();
-            myDuck.Voice();
+            myDuck.Voice(); 
 
             //! Abstraction
-            //Laptop myLaptop = new Laptop();
-            //myLaptop.GetSetBrand = "Acer";
-            //myLaptop.GetSetModel = "Nitro 5";
-            //myLaptop.LaptopDetails();
+            Laptop myLaptop = new Laptop();
+            myLaptop.GetSetBrand = "Acer";
+            myLaptop.GetSetModel = "Nitro 5";
+            myLaptop.LaptopDetails();
+            myLaptop.MotherBoardInfo();
         }
     }
 }
