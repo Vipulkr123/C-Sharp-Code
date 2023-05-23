@@ -20,6 +20,7 @@
             myLaptop.GetSetBrand = "Acer";
             myLaptop.GetSetModel = "Nitro 5";
             myLaptop.LaptopDetails();
+            // We can't Access Private Method in Other Classes
             myLaptop.MotherBoardInfo();
         }
     }
