@@ -41,19 +41,19 @@ namespace AdoConnection
 
                 // Connection Open
                 con.Open();
-                SqlDataAdapter adapter = new SqlDataAdapter(sqlcmd);
-                DataSet ds = new DataSet();
-                adapter.Fill(ds);
-                dataGridView.DataSource = ds.Tables[0];
-                dataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-                dataGridView.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;  
+                //SqlDataAdapter adapter = new SqlDataAdapter(sqlcmd);
+                //DataSet ds = new DataSet();
+                //adapter.Fill(ds);
+                //dataGridView.DataSource = ds.Tables[0];
+                //dataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                //dataGridView.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;  
 
-                //SqlDataReader rdr = sqlcmd.ExecuteReader();
-                //while (rdr.Read())
-                //{
-                //    textId.Text = rdr.GetInt32(0).ToString();
-                //    textName.Text = rdr.GetString(1);
-                //}
+                SqlDataReader rdr = sqlcmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    textId.Text = rdr.GetInt32(0).ToString();
+                    textName.Text = rdr.GetString(1);
+                }
             }
             catch (Exception ex)
             {
