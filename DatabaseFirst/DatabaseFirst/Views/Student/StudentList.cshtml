@@ -1,0 +1,38 @@
+﻿@model List<DatabaseFirst.Student>
+
+@{
+    ViewBag.Title = "StudentList";
+}
+
+<h2 class="text-center">Student List</h2>
+
+<div class="lg-my-5">
+    <table class="table lg-my-5">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Mobile No</th>
+            <th scope="col">Address</th>
+            <th scope="col">Action</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Mobile</td>
+                <td>@item.Address</td>
+                <td>
+                    <a href="@Url.Action("Student", new {item.Id, item.Name,item.Email,item.Mobile,item.Address})" class="btn btn-success">Edit</a>
+                    <a href="@Url.Action("Delete", new {item.Id})" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<p>
+    
+    @Html.ActionLink("Add Student", "Student")
+</p>
