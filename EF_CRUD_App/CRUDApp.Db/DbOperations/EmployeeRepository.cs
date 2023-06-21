@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.Entity.Core.Objects;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -147,16 +148,28 @@ namespace CRUDApp.Db.DbOperations
 				//string TotalEmployee = param.Value.ToString();
 				//return TotalEmployee;
 
-				string procedureName = "Declare @Param3 INT Exec usp_GetEmpWithOutput @Param3";
+				//===============
+				// Not working -------
+
+				string procedureName = "[dbo].[usp_GetEmpWithOutput] @TotalCount";
 				var sqlParameterOut = new SqlParameter
 				{
-					ParameterName = "@Param3",
-					SqlDbType = SqlDbType.Int,
+					ParameterName = "@TotalCount",
+					DbType = DbType.Int32,
 					Direction = ParameterDirection.Output
 				};
-				context.Database.SqlQuery<int>(procedureName,sqlParameterOut);
-				string TotalRow = Convert.ToString(sqlParameterOut.Value);
+				var test = context.Database.ExecuteSqlCommand(procedureName, sqlParameterOut);
+				var TotalRow = Convert.ToString(sqlParameterOut.Value);
 				return TotalRow;
+
+				//===============
+
+
+				//Second way to execute store procedure
+				//var sqlParameterOut = new ObjectParameter("TotalCount", typeof(int));
+				//int TotalRow = (int)context.usp_GetEmpWithOutput(sqlParameterOut).First();
+				//return TotalRow;
+
 			}
 		}
 	}
